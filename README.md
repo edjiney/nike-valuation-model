@@ -10,7 +10,7 @@
 This project is a comprehensive **3-Statement Financial Model** and **Discounted Cash Flow (DCF)** valuation of Nike, Inc., built to determine intrinsic value amidst the company's operational turnaround efforts.
 
 **View the Full Analysis:**
-* 📄 **[Executive Summary (PDF)]([Nike_Executive_Summary.pdf](https://github.com/edjiney/nike-valuation-model/blob/main/Nike%20Valuation%20Investment%20Thesis%20Edney%20Naife%20Cover.pdf))** - One-page investment thesis and dashboard.
+* 📄 **[Executive Summary (PDF)](Nike Valuation Investment Thesis Edney Naife Cover.pdf)** - One-page investment thesis and dashboard.
 * 📊 **[Financial Model (Excel)](Nike_Financial_Model_Valuation.xlsx)** - Full fully integrated .xlsx file.
 
 ---
