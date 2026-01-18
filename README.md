@@ -11,7 +11,7 @@ This project is a comprehensive **3-Statement Financial Model** and **Discounted
 
 **View the Full Analysis:**
 * 📄 **[Executive Summary (PDF)](https://github.com/edjiney/nike-valuation-model/blob/1c68f1833772c79737d377b919634889d05c178c/Nike%20Valuation%20Investment%20Thesis%20Edney%20Naife%20Cover.pdf)** - One-page investment thesis and dashboard.
-* 📊 **[Financial Model (Excel)](Nike_Financial_Model_Valuation.xlsx)** - Full fully integrated .xlsx file.
+* 📊 **[Financial Model (Excel)]([Nike_Financial_Model_Valuation.xlsx](https://github.com/edjiney/nike-valuation-model/blob/853d45660f17ab4c0684940fa135bf179d1fc43e/Nike%20Valuation%20Investment%20Thesis.xlsx))** - Full fully integrated .xlsx file.
 
 ---
 
